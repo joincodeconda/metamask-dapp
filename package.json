@@ -1,7 +1,7 @@
 {
-    "name": "metamask-dapp",
+    "name": "read-address-dapp",
     "version": "1.0.0",
-    "description": "Dapp for connecting to MetaMask",
+    "description": "Dapp for connecting to MetaMask and reading ETH account addresses.",
     "scripts": {
       "deploy": "./deploy.sh",
       "lint": "eslint . --ext js,json",
